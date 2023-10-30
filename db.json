@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Mazhamegham",
+      "cover_image": "https://i.postimg.cc/fRZyd8h3/download-5.jpg",
+      "video_url": "https://www.youtube.com/embed/Os9TlUlCkX0"
+    },
+    {
+      "id": 2,
+      "caption": "sun sathiya",
+      "cover_image": "https://i.postimg.cc/L56mK68w/download-7.jpg",
+      "video_url": "https://www.youtube.com/embed/TGpG56pg3UU&list=RDTGpG56pg3UU&start_radio=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "song",
+      "videos": [
+        {
+          "id": 2,
+          "caption": "kun faya kun",
+          "cover_image": "https://i.postimg.cc/8crtjZBD/images-1.jpg",
+          "video_url": "https://www.youtube.com/embed/T94PHkuydcw"
+        },
+        {
+          "id": 1,
+          "caption": "Mazhamegham",
+          "cover_image": "https://i.postimg.cc/fRZyd8h3/download-5.jpg",
+          "video_url": "https://www.youtube.com/embed/Os9TlUlCkX0"
+        },
+        {
+          "id": 2,
+          "caption": "kun faya kun",
+          "cover_image": "https://i.postimg.cc/8crtjZBD/images-1.jpg",
+          "video_url": "https://www.youtube.com/embed/T94PHkuydcw"
+        },
+        {
+          "id": 2,
+          "caption": "kun faya kun",
+          "cover_image": "https://i.postimg.cc/8crtjZBD/images-1.jpg",
+          "video_url": "https://www.youtube.com/embed/T94PHkuydcw"
+        },
+        {
+          "id": 2,
+          "caption": "sun sathiya",
+          "cover_image": "https://i.postimg.cc/L56mK68w/download-7.jpg",
+          "video_url": "https://www.youtube.com/embed/TGpG56pg3UU&list=RDTGpG56pg3UU&start_radio=1"
+        }
+      ]
+    },
+    {
+      "id": "lo5tw8z2",
+      "name": "Eductaion",
+      "videos": [
+        {
+          "id": 1,
+          "caption": "Mazhamegham",
+          "cover_image": "https://i.postimg.cc/fRZyd8h3/download-5.jpg",
+          "video_url": "https://www.youtube.com/embed/Os9TlUlCkX0"
+        },
+        {
+          "id": 2,
+          "caption": "kun faya kun",
+          "cover_image": "https://i.postimg.cc/8crtjZBD/images-1.jpg",
+          "video_url": "https://www.youtube.com/embed/T94PHkuydcw"
+        },
+        {
+          "id": 2,
+          "caption": "sun sathiya",
+          "cover_image": "https://i.postimg.cc/L56mK68w/download-7.jpg",
+          "video_url": "https://www.youtube.com/embed/TGpG56pg3UU&list=RDTGpG56pg3UU&start_radio=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": 1,
+      "video_title": "Mazhamegham",
+      "url": "https://www.youtube.com/embed/Os9TlUlCkX0",
+      "date": "october 27  6th 2023 0:05 AM"
+    },
+    {
+      "id": "lo6ogo72",
+      "video_title": "Mazhamegham",
+      "url": "https://www.youtube.com/embed/Os9TlUlCkX0",
+      "date": "2023-10-26 9:51:47 AM"
+    },
+    {
+      "id": "lo79q8av",
+      "video_title": "kun faya kun",
+      "url": "https://www.youtube.com/embed/T94PHkuydcw",
+      "date": "2023-10-26 7:47:05 PM"
+    },
+    {
+      "id": "lo82j2oq",
+      "video_title": "kun faya kun",
+      "url": "https://www.youtube.com/embed/T94PHkuydcw",
+      "date": "2023-10-27 9:13:20 AM"
+    },
+    {
+      "id": "lo85mhc9",
+      "video_title": "Mazhamegham",
+      "url": "https://www.youtube.com/embed/Os9TlUlCkX0",
+      "date": "2023-10-27 10:39:58 AM"
+    }
+  ]
+}
